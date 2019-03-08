@@ -9,7 +9,7 @@
 3. go to xrdp settings  
     `cd /etc/xrdp`
 
-4. make copy of current settings (to recover if something will go wrong)
+4. make copy of current settings (to recover if something will go wrong)  
     `cp xrdp.ini xrdp.ini.old`
 
 5. update settings with new value  
